@@ -1,0 +1,14 @@
+plant_name, veg_type, outdoor_sowing_date, weeks_to_maturity, planting_depth, plant_spacing, row_spacing
+
+Carrots, Root,  March-April, 12-18, 1/4 inch, 2-4 inches, 12-16 inches
+Corn, Seed, April-June, 11-14, 1.5 to 2 inches, 8-12 inches, 2.5-3 feet
+Cucumber, Fruit, May-June, 8-10, 1 to 1.5 inches, 10-12 inches, 18-24 inches
+Eggplant, Fruit, April-May, 12-15, 1/4 inch, 2-3 feet, 3-4 feet
+Onion, Bulb, March-April, 25-34, 1 to 1.5 inches, 4-6 inches, 12-18 inches
+Peas, Pod, March-April, 9-11, 1 to 2 inches, 2-3 inches, 18-24 inches
+Potatoes, Root, March-April, 15-20, 4 to 6 inches, 8-12 inches, 30-36 inches
+Peppers, Fruit, April-June, 10-12, 3 to 4 inches, 18-24 inches, 2-3 feet
+Radishes, Root, March-April, 5-7, 1/2 inch, 1 inch, 12 inches
+Sweet Potatoes, Root, April-May, 15-17, 4 to 6 inches, 12-18 inches, 36-40 inches
+Tomatoes, Fruit, May-June, April-May, 8-17, 12 inches, 2 feet, 4 feet
+Zucchini, Fruit, May-June, April-June, 6-9, 1 inch, 2-3 feet, 4-6 feet
